@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Yetki Teknik Servis</string>
+    <string name="oppps">Oppps!</string>
+    <string name="not_support_bluetooth">This devices don\'t support bluetooth connection.</string>
+    <string name="please_grant_permissions">This application needs permissions to run.</string>
+    <string name="please_open_the_bluetooth">Please open the bloetooth.</string>
+    <string name="select_a_printer">Yazıcınızı seçin</string>
+    <string name="name_and_surname">Adı ve soyadı</string>
+    <string name="device_name">CIHAZ</string>
+    <string name="amount_hint">TUTAR</string>
+    <string name="tl">₺</string>
+    <string name="date">12/02/2017</string>
+    <string name="address">ADRES</string>
+    <string name="note">AÇIKLAMA</string>
+    <string name="modify_text">AYRINTILARI DÜZENLE</string>
+    <string name="export">Dışa akter</string>
+    <string name="importdata">İçe aktar</string>
+    <string name="receipts">Faturalar</string>
+    <string name="change_writer">Yazıcıyı değiştir</string>
+    <string name="print_it">YAZDIR</string>
+    <string name="add_receipt">Fatura yaz</string>
+    <string name="about">Hakkında</string>
+    <string name="title">BAŞLIK</string>
+    <string name="save">KAYDET</string>
+    <string name="common_information">GENEL BİLGİ</string>
+    <string name="warraty">GARANTI SARLARI</string>
+    <string name="comminucation_information">İLETİŞİM BİLGİLERİ</string>
+    <string name="edit_information">Ayrıntıları düzenle</string>
+
+    <string name="best_common_information_title">GENEL BİLGİ</string>
+    <string name="best_common_information">KOMBİNİZİ DAHA GÜVENLİ VE EKONOMİK KULLANABİLMENİZ İÇİN LÜTFEN YILDA 1 KEZ BAKIM YAPTIRINIZ. KALORİFER TESİSATLARINI 4 YILDA 1 TEMİZLETİNİZ. TASARRUF YAPMADA EN ÖNEMLİ FAKTÖR PETEKLERİN TEMİZ OLMASIDIR.</string>
+
+    <string name="best_warranty">* YAPILAN TÜM İŞLEMLERİN GARANTİ SÜRESİ BİR YILDIR.\n* 1 YIL İÇERİSİNDE YAPTIĞIMIZ İŞLEMLE İLGİLİ ONARIM YAPILDIĞI ZAMAN ÜCRET ALINMAZ.\n* BU FİŞİ BİR YIL SÜREYLE KAYBETMEYİNİZ.\n* FİŞİ MUHAFAZA ETMEK VE SERVİS PERSONELİNE GÖSTERMEK MÜŞTERİ SORUMLULUĞUNDADIR.\n* FİŞİ GÖSTERİLMEYEN ÜRÜN ONARIMLARI GARANTİ DAHİLİ YAPILMAZ\n* BAKIM İŞLEMLERİNDE SADECE TEMİZLİK İŞLEMİ YAPILDIĞI İÇİN GARANTİ VERİLMEZ.\n* YÜKSEK VOLTAJDAN KAYNAKLI HİÇBİR ARIZA GARANTİ DAHİLİ YAPILMAZ.\n</string>
+
+    <string name="best_title">SERVİS</string>
+    <string name="best_title2">HİZMET FİŞİ</string>
+
+    <string name="best_communication">0212 246 5555\n0212 256 5555\n0533 646 5555 (GSM)\n</string>
+
+    <string name="best_common_title">GENEL BİLGİ</string>
+    <string name="best_warranty_title">GARANTİ ŞARTLARI</string>
+    <string name="best_communication_title">İLETİŞİM BİLGİLERİMİZ</string>
+
+    <string name="best_personal_signature">PERSONEL İMZA</string>
+    <string name="best_customer_signature">MÜŞTERİ İMZA</string>
+    <string name="blank_text">Lütfen bütün alanları eksiksik bir şekilde doldurun.</string>
+    <string name="customer">MÜŞTERİ</string>
+    <string name="search">Ara...</string>
+    <string name="please_enter_a_user_name_to_save">Müşterinin ismini ve soyismini giriniz.</string>
+    <string name="are_u_sure_to_create_a_user">Kullanıcı kaydı oluşturulacak?</string>
+    <string name="customer_phone">Telefon numarası</string>
+    <string name="cancel">VAZGEÇ</string>
+    <string name="save_customer">KULLANICIYI KAYDET</string>
+    <string name="please_enter_a_user_name_and_phone_to_save">Lütfen müşterinin ismini ve telefon numarasını giriniz.</string>
+    <string name="staff">PERSONEL</string>
+    <string name="please_enter_valid_values">Lütfen gerekli yerleri doldurun.</string>
+    <string name="task">YAPILAN İŞLEM</string>
+    <string name="best_name_and_surname">AD SOYAD</string>
+    <string name="best_phone">TELEFON</string>
+    <string name="best_amount">TUTAR</string>
+    <string name="bset_device">CİHAZ</string>
+    <string name="best_date">TARIH</string>
+    <string name="best_task">YAPILAN İŞLEM</string>
+    <string name="best_address">ADRES</string>
+    <string name="best_notes">AÇIKLAMA</string>
+    <string name="best_staff_significant">PERSONEL IMZA</string>
+    <string name="best_customer_significant">MÜŞTERİ İMZA</string>
+    <string name="are_u_sure">Emin misiniz?</string>
+    <string name="are_u_sure_to_print_this_receipt">Fişi yazdırmak istediğinizden emin misiniz?</string>
+    <string name="title_activity_receipts">ReceiptsActivity</string>
+    <string name="date_or_name">Tarih veya müşteri ismi</string>
+    <string name="delete">Sil</string>
+    <string name="please_select_an_device">Lütfen bir cihaz seç.</string>
+    <string name="please_wait">Lütfen bekle.</string>
+    <string name="we_writing">Servis hismet fişi yazdırılırken lütfen bekle...</string>
+    <string name="an_error_occurs_when_printing">Fiş yazdırılırken bir hata ile karşılaştık. Lütfen yazıcının telefonunuzla eşleşmiş olduğuna ve bağlantının sağlandığına emin olun.</string>
+    <string name="ok">TAMAM</string>
+    <string name="permissionRequest">Gerekli izinleri uygulamaya sağlamalısınız.</string>
+    <string name="are_u_sure_to_delete">Bu fişi silmek istediğiniden emin misiniz?</string>
+
+</resources>

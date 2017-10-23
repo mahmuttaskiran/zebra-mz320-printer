@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541459087528",
+    "firebase_url": "https://yetki-teknik-servis.firebaseio.com",
+    "project_id": "yetki-teknik-servis",
+    "storage_bucket": "yetki-teknik-servis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541459087528:android:ae83bcabfd99560b",
+        "android_client_info": {
+          "package_name": "opcon.com.printer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541459087528-cfs0jm7aj1gbh4vfnc4ufu8svv9hi28s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh89An8nUdhEOgwCCZZnzDpjIEBi60_Dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

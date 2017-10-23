@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:background="?selectableItemBackground"
+              android:clickable="true"
+              android:focusable="true"
+              android:id="@+id/root_of_device"
+              android:padding="16dp"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:id="@+id/icon"
+        app:ico_color="@color/colorPrimary"
+        app:ico_icon="@string/gmd_bluetooth"
+        app:ico_size="24dp"
+        tools:ignore="MissingPrefix"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_centerVertical="true"
+
+        android:orientation="vertical"
+        android:layout_toRightOf="@id/icon"
+        android:layout_toEndOf="@id/icon">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/device_name"
+            android:text="name_of_device"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="mac_address_of_device"
+            android:id="@+id/device_mac_address"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        android:id="@+id/device_default_indicator"
+        app:ico_color="@color/colorPrimary"
+        app:ico_icon="@string/gmd_star"
+        app:ico_size="20dp"
+        tools:ignore="MissingPrefix"/>
+
+</RelativeLayout>
